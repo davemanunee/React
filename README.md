@@ -1,3 +1,5 @@
 Building React Projects
 
-1) For the first project I am building a Todo- application. 
+Project 1
+A Todo Application- 
+Used React Hooks and included data persistence using local storage. 
